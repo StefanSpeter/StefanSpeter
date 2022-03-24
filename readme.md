@@ -5,6 +5,7 @@ I'm Stefan Speter, I'm a french Front-End Software Engineer from France :fr: and
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 <br/><br/>
 I'm currently working as a Full-Stack developer [Akabia](https://akabia.fr/) in Lille ! My main task is to create, maintain and develop new solutions for our clients, 
