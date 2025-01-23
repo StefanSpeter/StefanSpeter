@@ -16,8 +16,6 @@ I'm currently working as a Project Manager at Province Sud, Nouméa.
 - :video_game: I enjoy playing video games on my free time
 - :chart_with_upwards_trend: I'm passionate about Crypto but most globally by the world of finance
 
-If you want to reach me, click on any of the buttons below : <br/>
-
 ### Current work
 - Fullstack Drupal developer @ Akabia & assistant project manager
 - Scrum master in my school group as we aim to develop an already existing e-commerce website, I manage different tasks, help to prioritize and 
@@ -28,9 +26,5 @@ make sure everyone knows what to do !
 <div style="display:flex">
 <a href="https://www.linkedin.com/in/stefanspeterdev/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="mailto:stefanspeterdev@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 </div>
