@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Stefan Speter, I'm a french Front-End Software Engineer & Project manager from France :fr: based in New Caledonia 🇳🇨 ! <br/><br/>
+I'm Stefan Speter, I'm a french IT Engineer & Project manager from France :fr: based in New Caledonia 🇳🇨 ! <br/><br/>
 <img src="https://img.shields.io/badge/Drupal-0678BE?style=for-the-badge&logo=drupal&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -8,20 +8,18 @@ I'm Stefan Speter, I'm a french Front-End Software Engineer & Project manager fr
 <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 <br/><br/>
-I'm currently working as a Project Manager at Province Sud, Nouméa.
 
 - :books: I'm currently working on developing my JAMstack skills 
 - :student: I graduated in a Master Degree, Digital Project Management with a Major in Web development
-- :office_worker: I love working in an Agile (Scrum) environment !
-- :video_game: I enjoy playing video games on my free time
+- :office_worker: Agile !
+- 🎣: Spearfishing
 - :chart_with_upwards_trend: I'm passionate about Crypto but most globally by the world of finance
 
 ### Current work
-- Fullstack Drupal developer @ Akabia & assistant project manager
-- Scrum master in my school group as we aim to develop an already existing e-commerce website, I manage different tasks, help to prioritize and 
-make sure everyone knows what to do !
-- On my spare time I'm developing a blog on which I will share some of my trips aswell as my code snippets that I found useful !
-
+- Project Manager @ Province SUD, Nouméa, New Caledonia
+  - Prompt engineering
+  - AI Automation
+  - Scrum Master
 
 <div style="display:flex">
 <a href="https://www.linkedin.com/in/stefanspeterdev/">
