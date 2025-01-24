@@ -12,7 +12,7 @@ I'm Stefan Speter, I'm a french IT Engineer & Project manager from France :fr: b
 - :books: I'm currently working on developing my JAMstack skills 
 - :student: I graduated in a Master Degree, Digital Project Management with a Major in Web development
 - :office_worker: Agile !
-- 🎣: Spearfishing
+- 🎣 Spearfishing
 - :chart_with_upwards_trend: I'm passionate about Crypto but most globally by the world of finance
 
 ### Current work
