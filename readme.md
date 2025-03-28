@@ -9,7 +9,7 @@ I'm Stefan Speter, I'm a french IT Engineer & Project manager from France :fr: b
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 <br/><br/>
 
-- :books: I'm currently working on developing my JAMstack skills 
+- :books: I'm currently working on a blog and Youtube chanel around AI + making some websites on side
 - :student: I graduated in a Master Degree, Digital Project Management with a Major in Web development
 - :office_worker: Agile !
 - 🎣 Spearfishing
