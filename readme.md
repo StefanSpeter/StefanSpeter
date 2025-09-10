@@ -13,7 +13,7 @@ I'm Stefan Speter, I'm a french IT Engineer & Project manager from France :fr: b
 - :student: I graduated in a Master Degree, Digital Project Management with a Major in Web development
 - :office_worker: Agile !
 - 🎣 Spearfishing
-- :chart_with_upwards_trend: I'm passionate about Crypto but most globally by the world of finance
+- :chart_with_upwards_trend: Crypto & Finance
 - 🎮 I love to play video games when I have time
 
 ### Current work
